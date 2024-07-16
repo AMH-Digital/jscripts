@@ -1,4 +1,4 @@
-<script>
+
       setTimeout(function () {
         // Dynamically load Bootstrap CSS
         var bootstrapCSS = document.createElement("link");
@@ -72,4 +72,3 @@
           });
         };
       }, 2000); // 5000 milliseconds = 5 seconds
-    </script>
