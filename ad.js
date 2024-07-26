@@ -79,7 +79,7 @@ setTimeout(function () {
         content += 'padding: 10px; border-radius: 8px; position: relative;">'; // Ensure relative positioning
         content += '<div class="text-dark">';
         content += '<h5 class="fw-bold">Try 4 weeks for just $1!</h5>';
-        content += "<p>Sign up today and get exclusive access to our media content.</p>";
+        content += "<p>Sign up today and get exclusive access to 3 Publications.</p>";
         content += '<a href="https://epaper.thestandard.co.zw/amh_home" target="" style="text-decoration: none;">';
         content += '<button type="button" class="btn btn-danger fw-bold" style="max-width: 100%;">Sign Up Now</button>';
         content += '</a>';
